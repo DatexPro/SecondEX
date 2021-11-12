@@ -1,0 +1,30 @@
+[
+  {
+    "date_time": "2019-05-05T15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 340.00
+  },
+  {
+    "date_time": "2019-07-05T15:49:03",
+    "first_name": "Vasiliy",
+    "last_name": "Ivanenko",
+    "type": "ROAD ACCIDENT",
+    "fine_amount": 1250.00
+  },
+  {
+    "date_time": "2019-08-05T15:59:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SEAT BELT NOT ATTACHED",
+    "fine_amount": 252.00
+  },
+  {
+    "date_time": "2019-09-05T16:09:03",
+    "first_name": "Ivant",
+    "last_name": "Ivanovenko",
+    "type": "SPEEDING",
+    "fine_amount": 350.00
+  }
+]
